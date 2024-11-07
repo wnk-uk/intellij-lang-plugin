@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Class-Path: 3rd-party.jar ant.jar ant-antlr.jar ant-apache-bcel.jar ant-
+ apache-bsf.jar ant-apache-log4j.jar ant-apache-oro.jar ant-apache-regex
+ p.jar ant-apache-resolver.jar ant-apache-xalan2.jar ant-commons-logging
+ .jar ant-commons-net.jar ant-jai.jar ant-javamail.jar ant-jdepend.jar a
+ nt-jmf.jar ant-jsch.jar ant-junit.jar ant-junit4.jar ant-junitlauncher.
+ jar ant-launcher.jar ant-netrexx.jar ant-swing.jar ant-testutil.jar ant
+ -xz.jar asm-7.1.jar asm-analysis-7.1.jar asm-commons-7.1.jar asm-tree-7
+ .1.jar asm-util-7.1.jar async-profiler-2.1-ea-2.jar bootstrap.jar byte-
+ buddy-agent-1.10.1.jar coverage-common.jar dbus-java-3.2.1.jar dexlib2.
+ jar dom-impl.jar dom-openapi.jar duplicates-analysis.jar error_prone_an
+ notations-2.3.1.jar external-system-rt.jar find-action-model-0.0.3.jar 
+ forms_rt.jar grazie-spellchecker-0.1.9.jar groovy-2.5.14.jar groovy-jso
+ n-2.5.14.jar groovy-jsr223-2.5.14.jar groovy-templates-2.5.14.jar groov
+ y-xml-2.5.14.jar grpc-netty-shaded-1.34.1.jar idea.jar idea_rt.jar inte
+ llij-coverage-agent-1.0.589.jar intellij-test-discovery-agent-1.0.589.j
+ ar isorelax-20030108.jar java-string-similarity-2.0.0.jar java-utils-1.
+ 0.6.jar jdkAnnotations.jar jffi-1.2.19.jar jffi-1.2.19-native.jar jing-
+ 20030619.jar jna.jar jna-platform.jar jnr-a64asm-1.0.0.jar jnr-constant
+ s-0.9.12.jar jnr-enxio-0.21.jar jnr-ffi-2.1.10.jar jnr-posix-3.0.50.jar
+  jnr-unixsocket-0.23.jar jnr-x86asm-1.0.2.jar jps-model.jar jshell-fron
+ tend.jar jsp-base-openapi.jar junit4.jar kotlin-gradle-plugin-model-1.4
+ .32.jar kotlin-reflect-1.5.10-release-896.jar kotlin-stdlib-jdk8.jar ko
+ tlin-test.jar kotlinx-coroutines-debug-1.5.0.jar kotlinx-coroutines-jdk
+ 8.jar kotlinx-serialization-core-jvm-1.1.0.jar kotlinx-serialization-js
+ on-jvm-1.1.0.jar platform-api.jar platform-impl.jar platform-objectSeri
+ alizer-annotations.jar platform-statistics-devkit.jar protobuf-java-3.1
+ 5.8.jar pty4j.jar rd-core-0.212.307.jar rd-framework-0.212.307.jar rd-s
+ wing-0.212.307.jar rngom-20051226-patched.jar slf4j.jar sqlite-jdbc-3.3
+ 4.0.jar stats.jar structuralsearch.jar testFramework.jar testFramework-
+ java.jar testFramework.core.jar tests_bootstrap.jar tips-intellij-idea-
+ community-212.23.jar trang-core.jar uast-tests.jar util.jar winp-1.28.j
+ ar xmlbeans-4.0.0.jar annotations-22.0.0.jar
+
